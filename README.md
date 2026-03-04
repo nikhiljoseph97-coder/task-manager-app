@@ -6,6 +6,7 @@ Built using HTML, CSS, and JavaScript.
 ## Live Demo
 
 https://nikhiljoseph97-coder.github.io/task-manager-app/
+![Task Manager Screenshot](task-manager.png)
 
 ## Features
 
